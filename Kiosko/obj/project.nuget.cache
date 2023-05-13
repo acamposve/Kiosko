@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNMpt8gD88k/4j2PsOJm33JDFGxQ4ZVCMt84ssrm9qUnWWGSl0X8x8Jjs4iRzfnC3lcuhhj/a0d8BqFfL67lYw==",
+  "success": true,
+  "projectFilePath": "C:\\proyectos\\Kiosko\\Kiosko\\Kiosko.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.16\\microsoft.aspnetcore.spaproxy.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

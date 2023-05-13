@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "oFCEe6dG5iJz81VsNlUpehOaX32e0t22qul0Cal49cM=",
+  "Source": "Kiosko",
+  "BasePath": "_content/Kiosko",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Kiosko\\wwwroot",
+      "Source": "Kiosko",
+      "ContentRoot": "C:\\proyectos\\Kiosko\\Kiosko\\wwwroot\\",
+      "BasePath": "_content/Kiosko",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\proyectos\\Kiosko\\Kiosko\\wwwroot\\favicon.ico",
+      "SourceId": "Kiosko",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\proyectos\\Kiosko\\Kiosko\\wwwroot\\",
+      "BasePath": "_content/Kiosko",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
