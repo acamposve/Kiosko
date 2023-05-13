@@ -1,6 +1,6 @@
 {
 "SpaProxyServer": {
-"ServerUrl": "https://localhost:44455",
+"ServerUrl": "http://localhost:44400",
 "LaunchCommand": "npm start",
 "WorkingDirectory": "C:\\proyectos\\Kiosko\\Kiosko\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"

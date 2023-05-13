@@ -9,17 +9,17 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kiosko
 build_property.RootNamespace = Kiosko
-build_property.ProjectDir = c:\proyectos\Kiosko\Kiosko\
+build_property.ProjectDir = C:\proyectos\Kiosko\Kiosko\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\proyectos\Kiosko\Kiosko
+build_property.MSBuildProjectDirectory = C:\proyectos\Kiosko\Kiosko
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/proyectos/Kiosko/Kiosko/Pages/Error.cshtml]
+[C:/proyectos/Kiosko/Kiosko/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/proyectos/Kiosko/Kiosko/Pages/_ViewImports.cshtml]
+[C:/proyectos/Kiosko/Kiosko/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

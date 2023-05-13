@@ -1,2 +1,0 @@
-# Kiosko
-Convenciones Colectivas
