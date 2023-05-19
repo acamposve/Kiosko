@@ -1,45 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Microsoft.AspNetCore.SpaProxy/6.0.16": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ],
-        "build": {
-          "build/Microsoft.AspNetCore.SpaProxy.targets": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Microsoft.AspNetCore.SpaProxy/6.0.16": {
-      "sha512": "sEnqdLN/4SIKo0UkePBHuibFrnpVr7z3I9UBeXsanpWaQpAwdVV/fkcfJBdJFn4FmTfGgDTfohWx3WDZjVtBeg==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/6.0.16",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.TXT",
-        "build/Microsoft.AspNetCore.SpaProxy.targets",
-        "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.6.0.16.nupkg.sha512",
-        "microsoft.aspnetcore.spaproxy.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Microsoft.AspNetCore.SpaProxy >= 6.0.16"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Usuario\\.nuget\\packages\\": {},
@@ -48,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectos\\Kiosko\\Kiosko\\Kiosko.csproj",
-      "projectName": "Kiosko",
-      "projectPath": "C:\\proyectos\\Kiosko\\Kiosko\\Kiosko.csproj",
+      "projectUniqueName": "C:\\proyectos\\Kiosko\\Kiosko.Domain\\Kiosko.Domain.csproj",
+      "projectName": "Kiosko.Domain",
+      "projectPath": "C:\\proyectos\\Kiosko\\Kiosko.Domain\\Kiosko.Domain.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectos\\Kiosko\\Kiosko\\obj\\",
+      "outputPath": "C:\\proyectos\\Kiosko\\Kiosko.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +34,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -86,12 +51,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.SpaProxy": {
-            "target": "Package",
-            "version": "[6.0.16, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
@@ -104,9 +63,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
