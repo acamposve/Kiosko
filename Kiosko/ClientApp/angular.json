@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "Kiosko"
+  "defaultProject": "Kiosko",
+  "cli": {
+    "analytics": "4d1d430c-3d7b-4b3d-9ce4-576d2bd6a69e"
+  }
 }
