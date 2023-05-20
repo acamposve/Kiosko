@@ -10,7 +10,8 @@ namespace Kiosko.Domain
     {
 
         public string Login { get; set; }
-        public string Name { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
         public int CompanyId { get; set; }
 
         public int UserTypeId { get; set; }
