@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kiosko.Domain
 {
-    public class CompanySectors : BaseEntity
+    internal class Countries
     {
-        public string Name { get; set; }
-        public string Description { get; set; }
     }
 }
