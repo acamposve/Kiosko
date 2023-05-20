@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Kiosko.Domain
 {
-    internal class ArticlesOtherLaws
+    public class ArticlesOtherLaws : BaseEntity
     {
+        public int ArticleNumber { get; set; }
+
+
+        public string FullTextArticle { get; set; }
+        public string ResumeArticle { get; set; }
+        public int ComparativeTitleId { get; set; }
+        public string ComparativeField { get; set; }
+
+        public string ArticleTitle { get; set; }
     }
 }

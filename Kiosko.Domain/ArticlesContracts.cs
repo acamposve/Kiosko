@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Kiosko.Domain
 {
-    internal class ArticlesContracts
+    public class ArticlesContracts : BaseEntity
     {
+        public int ContractId { get; set; }
+        public int ArticlesQuantity { get; set; }
+
+        public string FullTextArticle { get; set; }
+        public string ResumeArticle { get; set; }
+        public int ComparativeTitleId { get; set; }
+        public string ComparativeField { get; set; }
+        public string ArticleStatus { get; set; }
+        public string ArticleTitle { get; set; }
+        public string ArticleClosed { get; set; }
     }
 }
