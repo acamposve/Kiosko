@@ -1,4 +1,4 @@
-﻿using Kiosko.Domain;
+﻿using Kiosko.Domain.Entities;
 using Kiosko.Interfaces;
 
 namespace Kiosko.Services

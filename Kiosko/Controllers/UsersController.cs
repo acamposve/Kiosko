@@ -1,5 +1,5 @@
 ﻿using Kiosko.Authorization;
-using Kiosko.Domain;
+using Kiosko.Domain.Entities;
 using Kiosko.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;

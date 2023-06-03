@@ -5,7 +5,11 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiosko", "Kiosko\Kiosko.csproj", "{FB9F9807-A99E-47F0-B938-02B95F21704B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosko.Domain", "Kiosko.Domain\Kiosko.Domain.csproj", "{0B9D7578-84E9-4B21-B8AA-A9EFBEFD532E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiosko.Domain", "Kiosko.Domain\Kiosko.Domain.csproj", "{0B9D7578-84E9-4B21-B8AA-A9EFBEFD532E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kiosko.Infrastructure", "Kiosko.Infrastructure\Kiosko.Infrastructure.csproj", "{5E8EEFD9-F2C1-4E00-ABEF-41A3EC42155D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiosko.Application", "Kiosko.Application\Kiosko.Application.csproj", "{ADA0825A-33F9-4B2B-93C3-6863ACBFB3D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0B9D7578-84E9-4B21-B8AA-A9EFBEFD532E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9D7578-84E9-4B21-B8AA-A9EFBEFD532E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9D7578-84E9-4B21-B8AA-A9EFBEFD532E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8EEFD9-F2C1-4E00-ABEF-41A3EC42155D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8EEFD9-F2C1-4E00-ABEF-41A3EC42155D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8EEFD9-F2C1-4E00-ABEF-41A3EC42155D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8EEFD9-F2C1-4E00-ABEF-41A3EC42155D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA0825A-33F9-4B2B-93C3-6863ACBFB3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA0825A-33F9-4B2B-93C3-6863ACBFB3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA0825A-33F9-4B2B-93C3-6863ACBFB3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA0825A-33F9-4B2B-93C3-6863ACBFB3D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

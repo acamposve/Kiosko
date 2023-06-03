@@ -1,6 +1,6 @@
-﻿using Kiosko.Domain;
-using Microsoft.AspNetCore.Mvc.Filters;
+﻿using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.AspNetCore.Mvc;
+using Kiosko.Domain.Entities;
 
 namespace Kiosko.Authorization
 {

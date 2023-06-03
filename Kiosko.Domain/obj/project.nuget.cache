@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "QwJXOXoLr3JFx4gTDj+ZVM+PnLXTFmIDDyjuG3K/OX1MskO8gSt9Wq7/C0Q650gn9Wmfr9DQl54yTTkm0imSsg==",
+  "dgSpecHash": "Ulf7a8EMAlr/tI7Fxgec/X6MPaakxrS+KQ50f2mLbijo4eC/+uJLXW6CPeFKwh34y+1m16touvvtJ3ZW4tcXVQ==",
   "success": true,
   "projectFilePath": "C:\\proyectos\\Kiosko\\Kiosko.Domain\\Kiosko.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
