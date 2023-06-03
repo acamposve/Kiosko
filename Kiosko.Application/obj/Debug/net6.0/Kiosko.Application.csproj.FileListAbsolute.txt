@@ -1,0 +1,5 @@
+C:\proyectos\Kiosko\Kiosko.Application\obj\Debug\net6.0\Kiosko.Application.csproj.AssemblyReference.cache
+C:\proyectos\Kiosko\Kiosko.Application\obj\Debug\net6.0\Kiosko.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\Kiosko\Kiosko.Application\obj\Debug\net6.0\Kiosko.Application.AssemblyInfoInputs.cache
+C:\proyectos\Kiosko\Kiosko.Application\obj\Debug\net6.0\Kiosko.Application.AssemblyInfo.cs
+C:\proyectos\Kiosko\Kiosko.Application\obj\Debug\net6.0\Kiosko.Application.csproj.CoreCompileInputs.cache

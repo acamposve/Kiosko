@@ -1,0 +1,12 @@
+C:\proyectos\Kiosko\Kiosko.Domain\bin\Debug\net7.0\Kiosko.Domain.deps.json
+C:\proyectos\Kiosko\Kiosko.Domain\bin\Debug\net7.0\Kiosko.Domain.dll
+C:\proyectos\Kiosko\Kiosko.Domain\bin\Debug\net7.0\Kiosko.Domain.pdb
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.csproj.AssemblyReference.cache
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.AssemblyInfoInputs.cache
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.AssemblyInfo.cs
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.csproj.CoreCompileInputs.cache
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.dll
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\refint\Kiosko.Domain.dll
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\Kiosko.Domain.pdb
+C:\proyectos\Kiosko\Kiosko.Domain\obj\Debug\net7.0\ref\Kiosko.Domain.dll

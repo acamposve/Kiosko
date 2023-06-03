@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Nkpm3O71Y/NkyLRF9lCr/clAjXMplY0KSDmJbFVUvJiIRDwOhb7wcqMe2KFK8XurDcKb8z15rWpQJj0AuwHlyg==",
+  "dgSpecHash": "3NGqQ9OdW4vkL00dZB1hieAcfKP17hFHkRN5VsxGJY8RslncvG09v3S8lETJkv4GQdIcc5yfYnfFYWZLJfIDOg==",
   "success": true,
   "projectFilePath": "C:\\proyectos\\Kiosko\\Kiosko\\Kiosko.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
