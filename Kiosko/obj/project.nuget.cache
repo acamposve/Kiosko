@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3NGqQ9OdW4vkL00dZB1hieAcfKP17hFHkRN5VsxGJY8RslncvG09v3S8lETJkv4GQdIcc5yfYnfFYWZLJfIDOg==",
+  "dgSpecHash": "VBWg7cd2fsQfOHM7Wr83AY8FDjjy6v8+Lajf76Hs9g91klWwSWt1P6lzPLW9g82+luUIEfed3yqR1JNKkzI7NQ==",
   "success": true,
   "projectFilePath": "C:\\proyectos\\Kiosko\\Kiosko\\Kiosko.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.5\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.5.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.16\\microsoft.aspnetcore.spaproxy.6.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\7.0.5\\microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

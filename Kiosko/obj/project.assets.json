@@ -391,13 +391,13 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/6.0.16": {
+      "Microsoft.AspNetCore.SpaProxy/7.0.5": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll": {}
+          "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll": {}
+          "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
@@ -1990,18 +1990,18 @@
         "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/6.0.16": {
-      "sha512": "sEnqdLN/4SIKo0UkePBHuibFrnpVr7z3I9UBeXsanpWaQpAwdVV/fkcfJBdJFn4FmTfGgDTfohWx3WDZjVtBeg==",
+    "Microsoft.AspNetCore.SpaProxy/7.0.5": {
+      "sha512": "WYLd7XrewukpPMbWzVEOE/rMI1Nu68euZfh3M31iilnpH5T78LX9Y5Yz87YOPdrwO3urzaN621RFqF9ZayDR6A==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/6.0.16",
+      "path": "microsoft.aspnetcore.spaproxy/7.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
-        "lib/net6.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.6.0.16.nupkg.sha512",
+        "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll",
+        "microsoft.aspnetcore.spaproxy.7.0.5.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -4448,7 +4448,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.5",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.5",
-      "Microsoft.AspNetCore.SpaProxy >= 6.0.16",
+      "Microsoft.AspNetCore.SpaProxy >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5"
     ]
@@ -4517,7 +4517,7 @@
           },
           "Microsoft.AspNetCore.SpaProxy": {
             "target": "Package",
-            "version": "[6.0.16, )"
+            "version": "[7.0.5, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
