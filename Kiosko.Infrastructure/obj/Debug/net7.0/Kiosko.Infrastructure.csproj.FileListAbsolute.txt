@@ -1,8 +1,3 @@
-C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.csproj.AssemblyReference.cache
-C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.AssemblyInfoInputs.cache
-C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.AssemblyInfo.cs
-C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.csproj.CoreCompileInputs.cache
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Infrastructure.deps.json
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Infrastructure.dll
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Infrastructure.pdb
@@ -10,6 +5,11 @@ C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Application.dl
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Domain.dll
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Application.pdb
 C:\proyectos\Kiosko\Kiosko.Infrastructure\bin\Debug\net7.0\Kiosko.Domain.pdb
+C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.csproj.AssemblyReference.cache
+C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.AssemblyInfoInputs.cache
+C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.AssemblyInfo.cs
+C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.csproj.CoreCompileInputs.cache
 C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.csproj.CopyComplete
 C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\Kiosko.Infrastructure.dll
 C:\proyectos\Kiosko\Kiosko.Infrastructure\obj\Debug\net7.0\refint\Kiosko.Infrastructure.dll
